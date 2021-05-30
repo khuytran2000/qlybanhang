@@ -1,0 +1,14 @@
+D:\Documents\TTCN2\Quản lý bán hàng\bin\Debug\Quản lý bán hàng.exe.config
+D:\Documents\TTCN2\Quản lý bán hàng\bin\Debug\Quản lý bán hàng.exe
+D:\Documents\TTCN2\Quản lý bán hàng\bin\Debug\Quản lý bán hàng.pdb
+D:\Documents\TTCN2\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.csprojAssemblyReference.cache
+D:\Documents\TTCN2\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.FrmNCC.resources
+D:\Documents\TTCN2\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.Properties.Resources.resources
+D:\Documents\TTCN2\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.GenerateResource.cache
+D:\Documents\TTCN2\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.CoreCompileInputs.cache
+D:\Documents\TTCN2\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.exe
+D:\Documents\TTCN2\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.pdb
+D:\Documents\TTCN2\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.FrmHanggiay.resources
+D:\Documents\TTCN2\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.FrmHDN.resources
+D:\Documents\TTCN2\Quản lý bán hàng\obj\Debug\Quản lý bán hàng.csproj.ResolveComReference.cache
+D:\Documents\TTCN2\Quản lý bán hàng\obj\Debug\Quản_lý_bán_hàng.FrmTimHDN.resources
